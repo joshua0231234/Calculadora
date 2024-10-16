@@ -1,28 +1,39 @@
-# Calculadora
-calculadora en pseint
-
-
-
-
-
-
-
-
-
-
-
 Algoritmo joshua
+
+
+
+
+
+
+
+
+
+
+
+
 	Definir num1 , num2 , opc , res Como Real
+ 
 	escribir "Mi Calcuadora  ";
+ 
     escribir "Por favor ingresa el primer número:";
+    
     leer num1;
+    
     escribir "Por favor ingresa el segundo número:";
+    
     leer num2;
+    
+    
     escribir "Por favor ingrese la operación que desea realizar. Elija una de las siguientes opciones:";
+    
     escribir "1: Para sumar";
+    
     escribir "2: Para restar.";
+    
     escribir "3: Para multiplicar.";
+    
     escribir "4: Para dividir.";
+    
     escribir "5: Para elevar a una potencia.";
 	escribir "6:para  funcion";
 	Escribir "7:seno ";
