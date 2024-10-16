@@ -1,5 +1,16 @@
 # Calculadora
 calculadora en pseint
+
+
+
+
+
+
+
+
+
+
+
 Algoritmo joshua
 	Definir num1 , num2 , opc , res Como Real
 	escribir "Mi Calcuadora  ";
